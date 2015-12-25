@@ -7,10 +7,10 @@ channels
 http://178.33.126.213:1935/leved/privateCom/.m3u8
 #EXTINF:-1,X-RATED CALL IN
 http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
-#EXTINF:-1,BABESTATION BLUE
-http://178.33.126.213:1935/cellcast/encoder32/.m3u8
 #EXTINF:-1,BRAZZERS X
 http://46.182.25.34:1935/tv/1420/playlist.m3u8
+#EXTINF:-1,CANDY
+http://95.82.204.28:81//udp/239.255.2.225:1234 
 #EXTINF:-1,PASSIEXXX
 http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
 #EXTINF:-1,SEXSTATION
