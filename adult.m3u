@@ -17,9 +17,9 @@ http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3
 http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
 #EXTINF:-1,OLALA
 http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
-#EXTINF:-1, HUSTLER HD
+#EXTINF:-1,HUSTLER HD
 http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
-#EXTINF:-1, HUSTLER
+#EXTINF:-1,HUSTLER
 http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
 #EXTINF:-1,PINK 1
 http://hyper.de1-eu.com:8000/live/assunta/assunta/745.m3u8
