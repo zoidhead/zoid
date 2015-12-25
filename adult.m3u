@@ -21,34 +21,6 @@ http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
 http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8
 #EXTINF:-1,HUSTLER
 http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
-#EXTINF:-1,PINK 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/745.m3u8
-#EXTINF:-1,PINK 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/744.m3u8
-#EXTINF:-1,PINK 3
-http://hyper.de1-eu.com:8000/live/assunta/assunta/743.m3u8
-#EXTINF:-1,PINK 4
-http://hyper.de1-eu.com:8000/live/assunta/assunta/742.m3u8
-#EXTINF:-1,HOTCLUB 1
-http://hyper.de1-eu.com:8000/live/assunta/assunta/760.m3u8
-#EXTINF:-1,HOTCLUB 2
-http://hyper.de1-eu.com:8000/live/assunta/assunta/758.m3u8
-#EXTINF:-1,HOTCLUB 3
-http://hyper.de1-eu.com:8000/live/assunta/assunta/757.m3u8
-#EXTINF:-1,HOTCLUB 4
-http://hyper.de1-eu.com:8000/live/assunta/assunta/756.m3u8
-#EXTINF:-1,HOTCLUB 5
-http://hyper.de1-eu.com:8000/live/assunta/assunta/755.m3u8
-#EXTINF:-1,HOTCLUB 6
-http://hyper.de1-eu.com:8000/live/assunta/assunta/754.m3u8
-#EXTINF:-1,HOTCLUB 7
-http://hyper.de1-eu.com:8000/live/assunta/assunta/753.m3u8
-#EXTINF:-1,HOTCLUB 8
-http://hyper.de1-eu.com:8000/live/assunta/assunta/752.m3u8
-#EXTINF:-1,HOTCLUB 9
-http://hyper.de1-eu.com:8000/live/assunta/assunta/751.m3u8
-#EXTINF:-1,HOTCLUB 10
-http://hyper.de1-eu.com:8000/live/assunta/assunta/759.m3u8
 
 
 #EXTINF:-1,[COLOR yellow][B]XXX VOD[/B][/COLOR]
