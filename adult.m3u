@@ -1,0 +1,24 @@
+#EXTM3U
+
+
+
+#EXTINF:-1,PRIVATE COM
+http://178.33.126.213:1935/leved/privateCom/.m3u8
+#EXTINF:-1,x-Rated Call In
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/chunklist.m3u8
+#EXTINF:-1,Babestation Blue
+http://178.33.126.213:1935/cellcast/encoder32/.m3u8
+#EXTINF:-1,BRAZZERS X
+http://46.182.25.34:1935/tv/1420/playlist.m3u8
+#EXTINF:-1,PASSIEXXX
+http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
+#EXTINF:-1,SEX STATION
+http://178.33.126.213:1935/bsx24/mpegts1.stream/.m3u8
+#EXTINF:-1,OLALA
+http://4BA9EBDB07C05883:@5.159.96.170:8000/olala
+#EXTINF:-1,MIAMI TV
+http://k4.usastreams.com:1935/miamitv/miamitv/chunklist_w128908539.m3u8
+#EXTINF:-1,LIVE SEX
+http://178.33.126.213:1935/iptv_cellcast_24/livestream1/playlist.m3u8
+#EXTINF:-1,LIVE SEX2
+http://178.33.126.213:1935/iptv_cellcast_24/livestream_two2/.m3u8
