@@ -23,15 +23,5 @@ http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8
 http://188.165.220.116:8081/live/74/playlist.m3u8
 #EXTINF:-1,MOVIES 2
 http://188.165.220.116:8081/live2/49/playlist.m3u8
-#EXTINF:-1,BELLA CLUB
-rtsp://46.249.213.93/broadcast/bellaclub-tablet.3gp
-#EXTINF:-1,BELLA CLUB  BELLALUZ
-rtsp://46.249.213.87/broadcast/bellaluz-tablet.3gp
-#EXTINF:-1,HOT 100
-rtsp://46.249.213.93/broadcast/hot100-tablet.3gp
-#EXTINF:-1,PLAYBOY TV CHAT UK 1 
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel1/playlist.m3u8
-#EXTINF:1,PLAYBOY TV CHAT UK 2
-http://playback.d2see.com:1935/wavemachine-live01/_definst_/mp4:playboytv_channel2/playlist.m3u8
 #EXTINF:-1,IPURE TV 
 http://46.105.116.159:1935/iptv_cellcast_24/livestream1/player.m3u8
