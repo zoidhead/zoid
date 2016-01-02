@@ -1,28 +1,4 @@
-#EXTM3U
 
-
-#EXTINF:-1,[COLOR red][B]XXX CHANNELS[/B][/COLOR]
-channels
-
-#EXTINF:-1,[COLOR blue]SHAKY VIDEO? CHANGE DEINTERLACE METHOD[/COLOR]
-aaa
-
-#EXTINF:-1,PRIVATE COM
-http://178.33.126.213:1935/leved/privateCom/.m3u8 
-#EXTINF:-1,PASSIE XXX
-http://publish.thewebstream.co:1935/leved/_definst_/passielivestream/playlist.m3u8
-#EXTINF:-1,PASSIE XXX
-http://178.33.126.213:1935/leved/passielivestream/.m3u8 
-#EXTINF:-1,OLALA
-http://4BA9EBDB07C05883:@5.159.96.170:8000/olala 
-#EXTINF:-1,HUSTLER HD
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlerhd/playlist.m3u8 
-#EXTINF:-1,HUSTLER
-http://178.21.120.198:1935/live3/_definst_/mp4:hustlertv/playlist.m3u8 
-#EXTINF:-1,MOVIES 1
-http://188.165.220.116:8081/live/74/playlist.m3u8 
-#EXTINF:-1,MOVIES 2
-http://188.165.220.116:8081/live2/49/playlist.m3u8 
 
 
 
