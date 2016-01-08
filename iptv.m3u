@@ -8,9 +8,6 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/475.ts
 #EXTINF:-1,Sky 2
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/507.ts
 
-#EXTINF:-1,Sky Atlantic
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/483.ts
-
 #EXTINF:-1,Sky Arts 1 
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/489.ts
 
@@ -26,11 +23,11 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/474.ts
 #EXTINF:-1,RTE Two
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/478.ts
 
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
 #EXTINF:-1,More 4 
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/504.ts
-
-#EXTINF:-1,E4+1
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/525.ts
 
 #EXTINF:-1,ITV Encore
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/467.ts
@@ -62,22 +59,19 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/510.ts
 #EXTINF:-1,Comedy Central
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/463.ts
 
-#EXTINF:-1,Comedy Central Extra
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/462.ts
-
-#EXTINF:-1,UK Food Network
+#EXTINF:-1,Food Network UK
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/495.ts
 
-#EXTINF:-1,Good Food uk
+#EXTINF:-1,Good Food UK
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/501.ts
 
-#EXTINF:-1,UK TLC
+#EXTINF:-1,TLC UK
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/455.ts
 
 #EXTINF:-1,Dmax
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/456.ts
 
-#EXTINF:-1,UK Lifetime
+#EXTINF:-1,Lifetime UK
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/476.ts
 
 #EXTINF:-1,Discovery Science
@@ -88,9 +82,6 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/491.ts
 
 #EXTINF:-1,Discovery
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/464.ts
-
-#EXTINF:-1,Discovery Turbo
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/465.ts
 
 #EXTINF:-1,Animal Planet 
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/497.ts
@@ -103,13 +94,6 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/498.ts
 
 #EXTINF:-1,History 
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/496.ts
-
-#EXTINF:-1,History 2
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/452.ts
-
-#EXTINF:-1,Ci
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/514.ts
-
 
 #EXTINF:-1,Movies 24
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/523.ts
