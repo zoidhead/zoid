@@ -1,48 +1,200 @@
 #EXTM3U
 
-#EXTINF:-1,[COLOR blue][B]PAC-12 NETWORKS[/B][/COLOR]
-blah 
 
-#EXTINF:-1,PAC-12 Net (National) 720p
-http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net (National) 1080p
-http://xrxs.net/video/live-p12netw-4728.m3u8
+#EXTINF:-1,UK: Liverpool FC TV 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/536.ts
 
-#EXTINF:-1,PAC-12 Net (Arizona) 720p
-http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,UK: Chelsea TV 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/537.ts
 
-#EXTINF:-1,PAC-12 Net (Arizona) 1080p
-http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,UK: RealMadrid
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/479.ts
 
-#EXTINF:-1,PAC-12 Net (Bay Area) 720p
-http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,UK: MUTV
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/535.ts
 
-#EXTINF:-1,PAC-12 Net (Bay Area) 1080p
-http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,UK: Sky Movies Premiere 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/519.ts
 
-#EXTINF:-1,PAC-12 Net (Los Angeles) 720p
-http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,UK: Sky Movies Disney
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/516.ts
 
-#EXTINF:-1,PAC-12 Net (Los Angeles) 1080p
-http://xrxs.net/video/live-p12losa-4728.m3u8
+#EXTINF:-1,UK: Sky Movies Select 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/517.ts
 
-#EXTINF:-1,PAC-12 Net (Mountain) 720p
-http://xrxs.net/video/live-p12moun-2328.m3u8
+#EXTINF:-1,UK: Sky Movies Action 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/511.ts
 
-#EXTINF:-1,PAC-12 Net (Mountain) 1080p
-http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,UK: Sky Movies Greats
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/518.ts
 
-#EXTINF:-1,PAC-12 Net (Oregon) 720p
-http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,UK: Sky Movies Family 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/520.ts
 
-#EXTINF:-1,PAC-12 Net (Oregon) 1080p
-http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,UK: Sky Movies Drama 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/521.ts
 
-#EXTINF:-1,PAC-12 Net (Washington) 720p
-http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,UK: Sky Movies Comedy 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/524.ts
 
-#EXTINF:-1,PAC-12 Net (Washington) 1080p
-http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,UK: Sky Movies Crime
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/512.ts
+
+#EXTINF:-1,UK: Sky Movies Sci-Fi+
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/515.ts
+
+#EXTINF:-1,UK: Sky Movies 24
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/523.ts
+
+#EXTINF:-1,UK:q True Movies1
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/472.ts
+
+#EXTINF:-1,UK: True Movies 2
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/534.ts
+
+#EXTINF:-1,UK: More 4 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/504.ts
+
+#EXTINF:-1,UK: Sky 2
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/507.ts
+
+#EXTINF:-1,UK: Cbs Drama
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/482.ts
+
+#EXTINF:-1,UK: Cbs Action
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/481.ts
+
+#EXTINF:-1,UK: CBS Reality
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/510.ts
+
+#EXTINF:-1,UK: Sky Atlantic
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/483.ts
+
+#EXTINF:-1,UK: Comedy Central
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/463.ts
+
+#EXTINF:-1,UK: History 2
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/452.ts
+
+#EXTINF:-1,UK: Nickelodeon
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/503.ts
+
+#EXTINF:-1,UK: Disney XD 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/493.ts
+
+#EXTINF:-1,UK: Sky Disney Junior 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/494.ts
+
+#EXTINF:-1,UK: Food Network
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/495.ts
+
+#EXTINF:-1,UK: Discovery
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/464.ts
+
+#EXTINF:-1,UK: Sky Disney Chaneel 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/492.ts
+
+#EXTINF:-1,UK: Cartoon Network
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/522.ts
+
+#EXTINF:-1,UK: Discovery Science
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/526.ts
+
+#EXTINF:-1,UK: Discovery History
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/491.ts
+
+#EXTINF:-1,UK: Animal Planet 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/497.ts
+
+#EXTINF:-1,UK: National Geographic HD
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/499.ts
+
+#EXTINF:-1,UK: Nat Geo Wild 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/498.ts
+
+#EXTINF:-1,UK: History 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/496.ts
+
+#EXTINF:-1,UK: MTV Hits
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/500.ts
+
+#EXTINF:-1,UK: Ci
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/514.ts
+
+#EXTINF:-1,UK: Discovery Turbo
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/465.ts
+
+#EXTINF:-1,UK: ITV Encore
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/467.ts
+
+#EXTINF:-1,UK: Dave 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/506.ts
+
+#EXTINF:-1,UK: RTE One
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/474.ts
+
+#EXTINF:-1,UK: RTE Two
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/478.ts
+
+#EXTINF:-1,UK: Sky Star Jalsha
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/473.ts
+
+#EXTINF:-1,UK: Sky Arts 1 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/489.ts
+
+#EXTINF:-1,UK: Alibi
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/509.ts
+
+#EXTINF:-1,UK: Sky Living 
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/502.ts
+
+#EXTINF:-1,UK: Sky 1
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/475.ts
+
+#EXTINF:-1,UK: UK Gold
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/508.ts
+
+#EXTINF:-1,UK: 5 USA
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/480.ts
+
+#EXTINF:-1,UK: 5 star
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/477.ts
+
+#EXTINF:-1,UK: Lifetime
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/476.ts
+
+#EXTINF:-1,UK: E4+1
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/525.ts
+
+#EXTINF:-1,UK: Good Food HD
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/501.ts
+
+#EXTINF:-1,UK: Comedy Central Ex
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/462.ts
+
+#EXTINF:-1,UK: TCM
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/459.ts
+
+#EXTINF:-1,UK: Sony Entertainment 1
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/458.ts
+
+#EXTINF:-1,US: Five
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/450.ts
+
+#EXTINF:-1,US: willow
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/448.ts
+
+#EXTINF:-1,UK: Dmax
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/456.ts
+
+#EXTINF:-1,UK: Bloomberg HD
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/457.ts
+
+#EXTINF:-1,UK: TLC
+http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/455.ts
+
+
+
 
 
