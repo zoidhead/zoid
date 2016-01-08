@@ -3,46 +3,46 @@
 #EXTINF:-1,[COLOR blue][B]PAC-12 NETWORKS[/B][/COLOR]
 blah 
 
-#EXTINF:-1,PAC National 720p
+#EXTINF:-1,PAC-12 Net (National) 720p
 http://xrxs.net/video/live-p12netw-2328.m3u8
 
-#EXTINF:-1,PAC National 1080p
+#EXTINF:-1,PAC-12 Net (National) 1080p
 http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Arizona) 720p
+#EXTINF:-1,PAC-12 Net (Arizona) 720p
 http://xrxs.net/video/live-p12ariz-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Arizona) 1080p
+#EXTINF:-1,PAC-12 Net (Arizona) 1080p
 http://xrxs.net/video/live-p12ariz-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Bay Area) 720p
+#EXTINF:-1,PAC-12 Net (Bay Area) 720p
 http://xrxs.net/video/live-p12baya-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Bay Area) 1080p
+#EXTINF:-1,PAC-12 Net (Bay Area) 1080p
 http://xrxs.net/video/live-p12baya-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Los Angeles) 720p
+#EXTINF:-1,PAC-12 Net (Los Angeles) 720p
 http://xrxs.net/video/live-p12losa-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Los Angeles) 1080p
+#EXTINF:-1,PAC-12 Net (Los Angeles) 1080p
 http://xrxs.net/video/live-p12losa-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Mountain) 720p
+#EXTINF:-1,PAC-12 Net (Mountain) 720p
 http://xrxs.net/video/live-p12moun-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Mountain) 1080p
+#EXTINF:-1,PAC-12 Net (Mountain) 1080p
 http://xrxs.net/video/live-p12moun-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Oregon) 720p
+#EXTINF:-1,PAC-12 Net (Oregon) 720p
 http://xrxs.net/video/live-p12oreg-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Oregon) 1080p
+#EXTINF:-1,PAC-12 Net (Oregon) 1080p
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Washington) 720p
+#EXTINF:-1,PAC-12 Net (Washington) 720p
 http://xrxs.net/video/live-p12wash-2328.m3u8
 
-#EXTINF:-1,PAC-12 Net. (Washington) 1080p
+#EXTINF:-1,PAC-12 Net (Washington) 1080p
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
