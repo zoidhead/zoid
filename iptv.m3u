@@ -1,124 +1,15 @@
 #EXTM3U
 
 
-
-#EXTINF:-1,Sky 1
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/475.ts
-
-#EXTINF:-1,Sky 2
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/507.ts
-
-#EXTINF:-1,Sky Arts 1 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/489.ts
-
-#EXTINF:-1,Sky Living 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/502.ts
-
-#EXTINF:-1,UK Gold
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/508.ts
-
-#EXTINF:-1,RTE One
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/474.ts
-
-#EXTINF:-1,RTE Two
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/478.ts
-
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
-#EXTINF:-1,More 4 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/504.ts
-
-#EXTINF:-1,ITV Encore
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/467.ts
-
-#EXTINF:-1,Five
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/450.ts
-
-#EXTINF:-1,5 star
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/477.ts
-
-#EXTINF:-1,5 USA
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/480.ts
-
-#EXTINF:-1,Dave 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/506.ts
-
-#EXTINF:-1,Alibi
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/509.ts
-
-#EXTINF:-1,Cbs Drama
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/482.ts
-
-#EXTINF:-1,Cbs Action
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/481.ts
-
-#EXTINF:-1,CBS Reality
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/510.ts
-
-#EXTINF:-1,Comedy Central
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/463.ts
-
-#EXTINF:-1,Food Network UK
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/495.ts
-
-#EXTINF:-1,Good Food UK
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/501.ts
-
-#EXTINF:-1,TLC UK
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/455.ts
-
-#EXTINF:-1,Dmax
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/456.ts
-
-#EXTINF:-1,Lifetime UK
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/476.ts
-
-#EXTINF:-1,Discovery Science
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/526.ts
-
-#EXTINF:-1,Discovery History
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/491.ts
-
-#EXTINF:-1,Discovery
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/464.ts
-
-#EXTINF:-1,Animal Planet 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/497.ts
-
-#EXTINF:-1,National Geographic 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/499.ts
-
-#EXTINF:-1,Nat Geo Wild 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/498.ts
-
-#EXTINF:-1,History 
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/496.ts
-
-#EXTINF:-1,Movies 24
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/523.ts
-
-#EXTINF:-1,True Movies1
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/472.ts
-
-#EXTINF:-1,True Movies 2
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/534.ts
-
-#EXTINF:-1,Cartoon Network UK
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/522.ts
-
-#EXTINF:-1,MTV Hits
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/500.ts
-
-#EXTINF:-1,MUTV
-http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/535.ts
 
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
  
- 
 #EXTINF:-1,HEART TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
 #EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
 blah 
 
