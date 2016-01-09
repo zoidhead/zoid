@@ -114,5 +114,41 @@ http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/500.ts
 http://ipsatpro.com:8000/live/idZcL1XatK/hYH6KU2dmg/535.ts
 
 
+#EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
+blah 
 
+#EXTINF:-1,PAC-12 (National) 720p
+http://xrxs.net/video/live-p12netw-2328.m3u8
 
+#EXTINF:-1,PAC-12 (National) 1080p
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Arizona) 720p
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 (Bay Area) 720p
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Bay Area) 1080p
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Los Angeles) 720p
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Los Angeles) 1080p
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Mountain) 720p
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Mountain) 1080p
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Oregon) 720p
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Oregon) 1080p
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Washington) 1080p
+http://xrxs.net/video/live-p12wash-4728.m3u8
