@@ -15,6 +15,9 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC three
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-pa3=96000-video=1604000.m3u8
+
+#EXTINF:-1,BBC three HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC four
