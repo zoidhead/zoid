@@ -10,6 +10,7 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml
 
 #EXTINF:-1,BBC two
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3=96000-video=1604000.m3u8
+
 #EXTINF:-1,BBC two HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3=96000-video=5070000.m3u8
 
@@ -25,7 +26,10 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_news_channel_hd/bbc_ne
 #EXTINF:-1,BBC News HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3=96000-video=5070000.m3u8
 
-#EXTINF:-1,CBBC
+EXTINF:-1,CBBC
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=1604000.m3u8
+
+#EXTINF:-1,CBBC HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,CBeebies 
