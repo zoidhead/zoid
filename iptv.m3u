@@ -24,6 +24,9 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.is
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
+#EXTINF:-1,S4C
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_9/live/s4cpbs/s4cpbs.isml/s4cpbs-pa3=96000-video=1604000.m3u8
+
 #EXTINF:-1,CAPITAL TV
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
  
