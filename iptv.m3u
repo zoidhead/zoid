@@ -32,6 +32,21 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_ne
 #EXTINF:-1,BBC News HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3=96000-video=5070000.m3u8
 
+#EXTINF:-1,ITV 1 
+http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
+
+#EXTINF:-1,ITV 2
+http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
+
+#EXTINF:-1,ITV 3
+http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+
+#EXTINF:-1,ITV 4
+http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
+
+#EXTINF:-1,ITVBe
+http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200.m3u8
+
 #EXTINF:-1,CBBC
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=1604000.m3u8
 
@@ -43,6 +58,9 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.is
 
 #EXTINF:-1,CBeebies HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa3=96000-video=5070000.m3u8
+
+#EXTINF:-1,CITV
+http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
