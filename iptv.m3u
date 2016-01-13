@@ -109,6 +109,9 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 
 #EXTINF:-1,PAC-12 (Arizona) 720p
 http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Arizona) 1080p
+http://xrxs.net/video/live-p12ariz-4728.m3u8
  
 #EXTINF:-1,PAC-12 (Bay Area) 720p
 http://xrxs.net/video/live-p12baya-2328.m3u8
