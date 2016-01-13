@@ -50,7 +50,7 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 #EXTINF:-1,Channel 4
 http://uk.stream.yo.tv/livehttporigin/ Channel4_360p.stream/chunklist.m3u8
 
-#EXTINF:-1, Channel 5
+#EXTINF:-1,Channel 5
 http://uk.stream.yo.tv/livehttporigin/ Channel5_360p.stream/chunklist.m3u8
 
 #EXTINF:-1,CBBC
