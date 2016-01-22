@@ -80,9 +80,6 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.is
 #EXTINF:-1,CITV
 http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800.m3u8
 
-#EXTINF:-1,Cartoon Network
-http://d1hya96e2cm7qi.cloudfront.net/Live/_definst_/sweetbcha1novD28_W_250.sdp/playlist.m3u8
-
 #EXTINF:-1,[COLOR red][B]MUSIC TV[/B][/COLOR]
 blah
 
