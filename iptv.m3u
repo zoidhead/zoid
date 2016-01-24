@@ -312,7 +312,7 @@ http://217.23.15.222/bein_sports1_fr.m3u8?user=62211&token=c09f73edee727627616c6
 #EXTINF:-1,51 - BEIN Sports 2 HD 
 http://217.23.15.222/bein_sports2_fr.m3u8?user=62211&token=af4c0487f264c1a3954beba7d4886994&e=1453749949&bands=956
 
-EXTINF:-1,3 - BBC One HD 
+#EXTINF:-1,3 - BBC One HD 
 http://217.23.15.222/bbc_one_gb.m3u8?user=62211&token=6826ae8e1ee3220fca987b6f8c34be44&e=1453749949&bands=956 
 
 #EXTINF:-1,4 - BBC Two 
