@@ -108,16 +108,16 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 blah
 
 #EXTINF:-1,Simpsons
-http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u
+http://veetle.com/index.php/hls/streamMbrFast/52dada61bdf13_/stream.m3u8
  
 #EXTINF:-1,South Park
-http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u
+http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
  
 #EXTINF:-1,King of the Hill
-http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u
+http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
  
 #EXTINF:-1,Spongebob
-http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u
+http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u8
 
 #EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
 blah 
