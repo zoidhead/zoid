@@ -158,7 +158,7 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1,PAC-12 (Washington) 1080p
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1,[COLOR purple][B]Thanks Paul TV[/B][/COLOR]
+#EXTINF:-1,[COLOR purple][B]THANKS PAUL TV[/B][/COLOR]
 blah
 
 #EXTINF:-1,2 - At The Races UK 
@@ -166,12 +166,6 @@ http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=d5c0e48be8d62b5cbb997
 
 #EXTINF:-1,2 - At The Races UK 
 http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=d5c0e48be8d62b5cbb997574b42d808e&e=1453749949&bands=956 
-
-#EXTINF:-1,3 - BBC One HD 
-http://217.23.15.222/bbc_one_gb.m3u8?user=62211&token=6826ae8e1ee3220fca987b6f8c34be44&e=1453749949&bands=956 
-
-#EXTINF:-1,4 - BBC Two 
-http://217.23.15.222/bbc_two_eng_gb.m3u8?user=62211&token=fbc5aebaa260d1c0de36ba1ed32fccea&e=1453749949&bands=956 
 
 #EXTINF:-1,5 - BT Sport 1 
 http://217.23.15.222/bt_sport1_gb.m3u8?user=62211&token=5287117d98bea923556464eaa7b37011&e=1453749949&bands=956 
@@ -313,12 +307,6 @@ http://217.23.15.222/bein_sports1_fr.m3u8?user=62211&token=c09f73edee727627616c6
 
 #EXTINF:-1,51 - BEIN Sports 2 HD 
 http://217.23.15.222/bein_sports2_fr.m3u8?user=62211&token=af4c0487f264c1a3954beba7d4886994&e=1453749949&bands=956
-
-#EXTINF:-1,3 - BBC One HD 
-http://217.23.15.222/bbc_one_gb.m3u8?user=62211&token=6826ae8e1ee3220fca987b6f8c34be44&e=1453749949&bands=956 
-
-#EXTINF:-1,4 - BBC Two 
-http://217.23.15.222/bbc_two_eng_gb.m3u8?user=62211&token=fbc5aebaa260d1c0de36ba1ed32fccea&e=1453749949&bands=956 
 
 #EXTINF:-1,5 - BT Sport 1 
 http://217.23.15.222/bt_sport1_gb.m3u8?user=62211&token=5287117d98bea923556464eaa7b37011&e=1453749949&bands=956 
