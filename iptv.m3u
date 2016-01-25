@@ -116,48 +116,6 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 #EXTINF:-1,Spongebob
 http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u8
 
-#EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
-blah 
-
-#EXTINF:-1,PAC-12 (National) 720p
-http://xrxs.net/video/live-p12netw-2328.m3u8
-
-#EXTINF:-1,PAC-12 (National) 1080p
-http://xrxs.net/video/live-p12netw-4728.m3u8
-
-#EXTINF:-1,PAC-12 (Arizona) 720p
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-
-#EXTINF:-1,PAC-12 (Arizona) 1080p
-http://xrxs.net/video/live-p12ariz-4728.m3u8
- 
-#EXTINF:-1,PAC-12 (Bay Area) 720p
-http://xrxs.net/video/live-p12baya-2328.m3u8
-
-#EXTINF:-1,PAC-12 (Bay Area) 1080p
-http://xrxs.net/video/live-p12baya-4728.m3u8
-
-#EXTINF:-1,PAC-12 (Los Angeles) 720p
-http://xrxs.net/video/live-p12losa-2328.m3u8
-
-#EXTINF:-1,PAC-12 (Los Angeles) 1080p
-http://xrxs.net/video/live-p12losa-4728.m3u8
-
-#EXTINF:-1,PAC-12 (Mountain) 720p
-http://xrxs.net/video/live-p12moun-2328.m3u8
-
-#EXTINF:-1,PAC-12 (Mountain) 1080p
-http://xrxs.net/video/live-p12moun-4728.m3u8
-
-#EXTINF:-1,PAC-12 (Oregon) 720p
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-
-#EXTINF:-1,PAC-12 (Oregon) 1080p
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-
-#EXTINF:-1,PAC-12 (Washington) 1080p
-http://xrxs.net/video/live-p12wash-4728.m3u8
-
 #EXTINF:-1,[COLOR purple][B]THANKS PAUL TV[/B][/COLOR]
 blah
 
@@ -205,7 +163,6 @@ http://217.23.15.222/nick_junior_gb.m3u8?user=62211&token=7165addb2c4ffdd239fdd0
 
 #EXTINF:-1,Nickelodeon 
 http://217.23.15.222/nickelodeon_gb.m3u8?user=62211&token=9f5271fcec6a83f7b289d217a2512719&e=1453749949&bands=956 
-
 
 #EXTINF:-1,Sky Action 
 http://217.23.15.222/sky_moviesaction_gb.m3u8?user=62211&token=d75856687c009f5ac434e5e20ec240a7&e=1453749949&bands=956 
@@ -299,3 +256,46 @@ http://217.23.15.222/tv2_no.m3u8?user=62211&token=d43682d893ae452d4b67549f9cb677
 
 #EXTINF:-1,MTV3 
 http://217.23.15.222/mtv3_fi.m3u8?user=62211&token=c3100c3fad943a93046a6a6a7c349f0c&e=1453749949&bands=956 
+
+#EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
+blah 
+
+#EXTINF:-1,PAC-12 (National) 720p
+http://xrxs.net/video/live-p12netw-2328.m3u8
+
+#EXTINF:-1,PAC-12 (National) 1080p
+http://xrxs.net/video/live-p12netw-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Arizona) 720p
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Arizona) 1080p
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 (Bay Area) 720p
+http://xrxs.net/video/live-p12baya-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Bay Area) 1080p
+http://xrxs.net/video/live-p12baya-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Los Angeles) 720p
+http://xrxs.net/video/live-p12losa-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Los Angeles) 1080p
+http://xrxs.net/video/live-p12losa-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Mountain) 720p
+http://xrxs.net/video/live-p12moun-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Mountain) 1080p
+http://xrxs.net/video/live-p12moun-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Oregon) 720p
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+
+#EXTINF:-1,PAC-12 (Oregon) 1080p
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+
+#EXTINF:-1,PAC-12 (Washington) 1080p
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
