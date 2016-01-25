@@ -186,9 +186,6 @@ http://217.23.15.222/sky_moviespremiere_gb.m3u8?user=62211&token=ec1b4aeebc57169
 http://217.23.15.222/sky_moviesscifi_gb.m3u8?user=62211&token=e584ad006fdb0e101ce3213f4addeeea&e=1453749949&bands=956 
 
 #EXTINF:-1,At The Races UK 
-http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=d5c0e48be8d62b5cbb997574b42d808e&e=1453749949&bands=956 #user=62211&token=67404c6d86c461f071fe5ecb8fab4a67&e=1453749949&bands=956 
-
-#EXTINF:-1,At The Races UK 
 http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=d5c0e48be8d62b5cbb997574b42d808e&e=1453749949&bands=956 
 
 #EXTINF:-1,BT Sport 1 
