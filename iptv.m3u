@@ -120,7 +120,7 @@ http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:-1,[COLOR purple][B]PAUL TV[/B][/COLOR]
 blah
 
-EXTINF:-1,1 - Animal Planet 
+#EXTINF:-1,1 - Animal Planet 
 http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=f36ef06bb0c3d500d2f71b8945213b38&e=1453895667&bands=956 
 #EXTINF:-1,2 - At The Races UK 
 http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=fa404305cedcac77a50d85bfa8ec85da&e=1453895667&bands=956 
@@ -194,12 +194,6 @@ http://217.23.15.222/sky_sports4gb.m3u8?user=62211&token=9f2673223d780d1c8bad9c9
 http://217.23.15.222/sky_sports5gb.m3u8?user=62211&token=2eb24415659f5bf89b3f487a02d65192&e=1453895667&bands=956 
 #EXTINF:-1,37 - Sky Sports News 
 http://217.23.15.222/sky_sportsnewsgb.m3u8?user=62211&token=bca075dd48c77964ac24985881024b29&e=1453895667&bands=956 
-#EXTINF:-1,38 - TSN 3 
-http://217.23.15.222/tsn3_us.m3u8?user=62211&token=c7189aff62b1a85a5fad603f8f5426fd&e=1453895667&bands=956 
-#EXTINF:-1,39 - TSN 4 
-http://217.23.15.222/tsn4_us.m3u8?user=62211&token=547d0b3bdbb6d8ef4a05955eb12980f8&e=1453895667&bands=956 
-#EXTINF:-1,40 - TSN 5 
-http://217.23.15.222/tsn5_us.m3u8?user=62211&token=277be09089f18f38094793fb97684e92&e=1453895667&bands=956 
 #EXTINF:-1,41 - TV2 
 http://217.23.15.222/tv2_no.m3u8?user=62211&token=0905fe6810b955c5790d86c465b25f3e&e=1453895667&bands=956 
 #EXTINF:-1,42 - TV3 Ireland http://217.23.15.222/tv3_ireland_ie.m3u8?user=62211&token=7b72d528b3defb279260583dcbf16125&e=1453895667&bands=956 
