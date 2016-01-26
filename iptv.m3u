@@ -120,8 +120,8 @@ http://veetle.com/index.php/hls/streamMbrFast/50686cb1bbaa9_/stream.m3u8
 #EXTINF:-1,[COLOR purple][B]PAUL TV[/B][/COLOR]
 blah
 
-#EXTINF:-1,1 - Animal Planet 
-http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=f36ef06bb0c3d500d2f71b8945213b38&e=1453895667&bands=956 
+#EXTINF:-1,1 - Animal Planet TEST
+http://217.23.15.222/animal_planet_gb.m3u8?user=62211&token=f36ef06bb0c3d500d2f71b8945213b38&e=1453895667&bands=956.m3u8
 #EXTINF:-1,2 - At The Races UK 
 http://217.23.15.222/at_the_races_gb.m3u8?user=62211&token=fa404305cedcac77a50d85bfa8ec85da&e=1453895667&bands=956 
 #EXTINF:-1,3 - BBC One HD 
