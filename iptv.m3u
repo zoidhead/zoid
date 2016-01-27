@@ -41,8 +41,14 @@ http://62.65.140.215/session/7e909e62-c444-11e5-af7b-005056bc06d1/nvnv5a/2/4018/
 #EXTINF:-1,ITV 2
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
 
+#EXTINF:-1,ITV 2 alt 
+http://62.65.140.219:80/session/b1f78ec8-c4cb-11e5-a961-005056bc1a52/nvnv5a/2/4005/index.m3u8?token=433977e8e3a2e523cda0e6a3781b33c9_1453967884_1453967884&p=127|X-Forwarded-For=85.6.72.140 
+
 #EXTINF:-1,ITV 3
 http://itv3liveios-i.akamaihd.net/hls/live/207262/itvlive/ITV3MN/master_Main1800.m3u8
+
+#EXTINF:-1,ITV 3 alt
+http://62.65.140.153:80/session/b26df55e-c4cb-11e5-add3-005056bc49ac/nvnv5a/2/4025/index.m3u8?token=f32da689e2e8db0c4afb2d3ae48fa5a0_1453967885_1453967885&p=127|X-Forwarded-For=85.7.19.33
 
 #EXTINF:-1,ITV 4
 http://itv4liveios-i.akamaihd.net/hls/live/207266/itvlive/ITV4MN/master_Main1800.m3u8
