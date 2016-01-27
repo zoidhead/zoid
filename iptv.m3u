@@ -5,7 +5,7 @@
 #EXTINF:-1,BBC one 
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC one [COLOR springgreen]HD[/COLOR]
+#EXTINF:-1,BBC one HD
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC two
