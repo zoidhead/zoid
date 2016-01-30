@@ -38,7 +38,9 @@ http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200
 
 
 #EXTINF:-1,ITV 1 HD
-http://62.65.140.149:80/session/3fc97c0c-c666-11e5-8662-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=e30063337446cb0bcf8fcf8f6c2ae9e6_1454144215_1454144215&p=127|X-Forwarded-For=85.6.87.122
+http://62.65.140.215:80/session/0d9435f0-c72a-11e5-b587-005056bc1a52/nvnv5a/2/4018/index.m3u8?token=06ecd80ace6f811e17210cc2db8abd6f_1454228312_1454228312&p=127|X-Forwarded-For=85.5.216.72
+
+
 
 
 
@@ -60,12 +62,14 @@ http://uk.stream.yo.tv/livehttporigin/ Channel4_360p.stream/chunklist.m3u8
 
 
 #EXTINF:-1,Channel 4 HD
-http://62.65.140.213:80/session/35789472-c666-11e5-8c5d-005056bc49ac/nvnv5a/2/4022/index.m3u8?token=6aca1e64185952c598ffeb26a6cb9788_1454144198_1454144198&p=127|X-Forwarded-For=85.7.236.78
+http://62.65.140.219:80/session/02abacfe-c72a-11e5-a202-005056bc1a52/nvnv5a/2/4022/index.m3u8?token=07b6662c80fef9439bd8833794964f67_1454228294_1454228294&p=127|X-Forwarded-For=85.5.114.10
+
 
 
 
 #EXTINF:-1,Film 4 
-http://62.65.140.212:80/session/3b9ed05a-c666-11e5-8140-005056bc1a52/nvnv5a/2/4023/index.m3u8?token=4b395bf05037798ad4fc1f7f87e89541_1454144208_1454144208&p=127|X-Forwarded-For=85.7.57.36
+http://62.65.140.148:80/session/08d42d22-c72a-11e5-9109-005056bc49ac/nvnv5a/2/4023/index.m3u8?token=886ab2af8bc35f6d9070d55d74f18dd9_1454228305_1454228305&p=127|X-Forwarded-For=85.3.175.104
+
 
 
 
