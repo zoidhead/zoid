@@ -116,8 +116,6 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNjoyNSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSBQTSZoYXNoX3ZhbHVlPThiV3VyRm9GOWxxRVVVUEFQOUtiZ2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/amc9.stream
 #EXTINF:0,Animal Planet
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
-#EXTINF:0,BBC 1
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NDowOCBQTSZoYXNoX3ZhbHVlPTNETnM0UXlEZjIvM05qa3IvZFpma3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/bbc1.stream
 #EXTINF:0,BLOOMBERG
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTI6NTAgUE0maGFzaF92YWx1ZT1CWUF3QVJieURXNmJTSStEcDFNbldnPT0mdmFsaWRtaW51dGVzPTIw/bloomberg.stream
 #EXTINF:0,Bravo HD
