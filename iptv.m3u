@@ -210,7 +210,7 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
 #EXTINF:0,SKY COMEDY
 rtmp://play.uktvnow.net:1935/live/mcomedy.stream
-#EXTINF:0,SKY DRAMA &amp; ROMANCE
+#EXTINF:0,SKY DRAMA & ROMANCE
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMDo0MyBQTSZoYXNoX3ZhbHVlPUcrVkpLVDdiZDNqaHVBRTk2eXpTSlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdrama.stream
 #EXTINF:0,SKY DISNEY
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiBQTSZoYXNoX3ZhbHVlPWlIV3hrZkpHejQxR1Y1N0VIYWdEYnc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mdisney.stream
