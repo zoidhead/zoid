@@ -35,16 +35,6 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_ne
 #EXTINF:-1,ITV 1 
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
 
-
-
-#EXTINF:-1,ITV 1 HD
-http://62.65.140.149:80/session/b6dbb052-ca6d-11e5-9ac3-005056bc49ac/nvnv5a/2/4018/index.m3u8?token=eb8597a7f32abe22d94fd9dd68c0ccf7_1454587226_1454587226&p=127|X-Forwarded-For=85.2.182.161
-
-
-
-
-
-
 #EXTINF:-1,ITV 2
 http://itv2liveios-i.akamaihd.net/hls/live/203495/itvlive/ITV2MN/master_Main1200.m3u8
 
@@ -59,22 +49,6 @@ http://itvbeliveios-i.akamaihd.net/hls/live/219078/itvlive/ITVBE/master_Main1200
 
 #EXTINF:-1,Channel 4
 http://uk.stream.yo.tv/livehttporigin/ Channel4_360p.stream/chunklist.m3u8
-
-
-
-#EXTINF:-1,Channel 4 HD
-http://62.65.140.219:80/session/adb631b4-ca6d-11e5-9f9e-005056bc06d1/nvnv5a/2/4022/index.m3u8?token=c583eedbb85cf99801171db9e2fdb3a0_1454587211_1454587211&p=127|X-Forwarded-For=85.4.217.88
-
-
-
-
-
-#EXTINF:-1,Film 4 
-http://62.65.140.155:80/session/b2463378-ca6d-11e5-ad7b-005056bc06d1/nvnv5a/2/4023/index.m3u8?token=6f664c03e9f33080f4266bba22bda8ff_1454587219_1454587219&p=127|X-Forwarded-For=85.3.114.229
-
-
-
-
 
 #EXTINF:-1,Channel 5
 http://uk.stream.yo.tv/livehttporigin/ Channel5_360p.stream/chunklist.m3u8
