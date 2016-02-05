@@ -202,9 +202,9 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNDoyNCB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNToyNCBQTSZoYXNoX3ZhbHVlPUltWUJiamQvK2dWUy9uQTJ4NzRTUUE9PSZ2YWxpZG1pbnV0ZXM9MjA=/vh1.stream
 #EXTINF:0,USA
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNzozOSBQTSZoYXNoX3ZhbHVlPXRFK1kvNkl0dG1VMEpUalhic0x4dVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/usa9.stream
-#EXTINF:0,SKY ACTION &amp; ADVENTURE
+#EXTINF:0,SKY ACTION & ADVENTURE
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzoxMiBQTSZoYXNoX3ZhbHVlPUpHTVNFSFZrS3hHRmQ1a2hCUTBhVEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/maction.stream
-#EXTINF:0,SKY CRIME &amp; THRILLER
+#EXTINF:0,SKY CRIME & THRILLER
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMTozNiBQTSZoYXNoX3ZhbHVlPW0vbEJNNEdlbnBJMit4UmlaU2dsaXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcrime.stream
 #EXTINF:0,SKY COMEDY
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMjozMiBQTSZoYXNoX3ZhbHVlPVJYZmpxaEtHSWZSczN0MUc2dG1NaEE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mcomedy.stream
@@ -218,7 +218,7 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgOTowMzo1NiB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1ODo1NyBQTSZoYXNoX3ZhbHVlPTJvOWN0VmN0YW1DYmppMVl5U2dkM0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/mfamily.stream
 #EXTINF:0,SKY PREMIER
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Nzo0NSBQTSZoYXNoX3ZhbHVlPVN0VjVlTmRncWJJdm1vZUpBSy9lYkE9PSZ2YWxpZG1pbnV0ZXM9MjA=/mpremiere.stream
-#EXTINF:0,SKY SCI-FI &amp; HORROR
+#EXTINF:0,SKY SCI-FI & HORROR
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODo1Njo0OSBQTSZoYXNoX3ZhbHVlPUZRSjViQ2ZOcDg0cWtaMGZKNlVFS3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/mscifi.stream
 #EXTINF:0,SKY 1
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTA6NDg6NDMgUE0maGFzaF92YWx1ZT03YkxuWnB1YUNPa3RoQjFmS1hvNHFnPT0mdmFsaWRtaW51dGVzPTIw/sky1.stream
