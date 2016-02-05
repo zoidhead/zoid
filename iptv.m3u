@@ -118,12 +118,6 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNzo0NSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
 #EXTINF:0,BLOOMBERG
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MTI6NTAgUE0maGFzaF92YWx1ZT1CWUF3QVJieURXNmJTSStEcDFNbldnPT0mdmFsaWRtaW51dGVzPTIw/bloomberg.stream
-#EXTINF:0,Bravo HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1Njo0OCBQTSZoYXNoX3ZhbHVlPWNPem1DQmFqcXJVaEk4NUlObVNmcmc9PSZ2YWxpZG1pbnV0ZXM9MjA=/bravo77
-#EXTINF:0,Cartoon Network
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1NzozOSBQTSZoYXNoX3ZhbHVlPXNvSDFOejgrbng5YWx6UWM3T1BMQ0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cn77
-#EXTINF:0,CBS
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1OToyOCBQTSZoYXNoX3ZhbHVlPWlmek1iRjVJRmdRR2IrRk1DRHh1dWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbs9.stream
 #EXTINF:0,CBS Action
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowMDowNSBQTSZoYXNoX3ZhbHVlPXZkTnpRM1Z1VGdXRFh6MGlRakI0M3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cbsaction.stream
 #EXTINF:0,CBS Drama
