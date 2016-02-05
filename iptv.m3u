@@ -128,8 +128,6 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNDo0OCB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowNTo0NSBQTSZoYXNoX3ZhbHVlPTRRUlR5SFJDbVFibVViOFUyMFh6U2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnbc.stream
 #EXTINF:0,CNN
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjowODo1MyBQTSZoYXNoX3ZhbHVlPUM2R2xpcnlHT2pTYmdpQVAxYWxNY0E9PSZ2YWxpZG1pbnV0ZXM9MjA=/cnn.stream
-#EXTINF:0,CW
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMTo0NyBQTSZoYXNoX3ZhbHVlPUlvakpRRURQRUJ2cUd0L1lEKzJtUGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/cw77
 #EXTINF:0,Discovery
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxMjozNCBQTSZoYXNoX3ZhbHVlPWFRU2FTSUxRT2ErYkVMOE5IVUxMY3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discovery.stream
 #EXTINF:0,Discovery History
