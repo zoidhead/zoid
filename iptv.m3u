@@ -104,10 +104,10 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:1,[COLOR orange][B]PAUL TV [/B][/COLOR]
 yuuuup
 
-#EXTINF:-1,Bein Sport 1 HD France
+#EXTINF:-1,beIN Sport 1 HD France
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1158.m3u8
 
-#EXTINF:-1,Bein Sport 2 HD France
+#EXTINF:-1,beIN Sport 2 HD France
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1159.m3u8
 
 #EXTINF:-1,Sky Sport 1HD
@@ -149,7 +149,7 @@ http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1143.m3u8
 #EXTINF:-1,beIN Sport 6HD
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1142.m3u8
 
-#EXTINF:-1,Bein Sports 7HD
+#EXTINF:-1,beIN Sports 7HD
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1141.m3u8
 
 #EXTINF:-1,beIN Sports 8HD
@@ -221,10 +221,10 @@ http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1285.m3u8
 #EXTINF:-1,SPORT TV 1 HD
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1286.m3u8
 
-#EXTINF:-1,Sport TV 2 HD
+#EXTINF:-1,SPORT TV 2 HD
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1287.m3u8
 
-#EXTINF:-1,Sport TV 3 HD
+#EXTINF:-1,SPORT TV 3 HD
 http://163.172.14.11:12000/live/RzfEucfe8v/UhtrJh608m/1288.m3u8
 
 #EXTINF:-1,SPORT TV 4 HD
