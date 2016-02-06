@@ -104,7 +104,7 @@ http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 #EXTINF:1,[COLOR orange][B]PAUL TV [/B][/COLOR]
 yuuuup
 
-#EXTINF:0,ITV
+#EXTINF:0,ITV 1
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjoxNSBQTSZoYXNoX3ZhbHVlPVYvTncxK2xKTi9ONjAxNncxb0o5VWc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv11.stream
 #EXTINF:0,ITV 2
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTozMjoyOSBQTSZoYXNoX3ZhbHVlPW53VFdub3pBcHpGeDMzSGJiWVZyamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/itv2.stream
@@ -214,8 +214,6 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0NToyOSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyODo1OCBQTSZoYXNoX3ZhbHVlPU4raGN6dHJ1VFN2RmtQT3F1bkNZRlE9PSZ2YWxpZG1pbnV0ZXM9MjA=/foxhd.stream
 #EXTINF:0,NBC
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
-#EXTINF:0,NBC HD
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MjoxOSBQTSZoYXNoX3ZhbHVlPVBTQ2FKL3hncXRPQWQxVE5HdXk1K3c9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbchd.stream
 #EXTINF:0,ABC HD
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxNTozNCBQTSZoYXNoX3ZhbHVlPUx1cFEyd0xWYkRoemRNRitFVU9qamc9PSZ2YWxpZG1pbnV0ZXM9MjA=/abchd.stream
 #EXTINF:0,ABC
