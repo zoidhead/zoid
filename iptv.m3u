@@ -158,7 +158,7 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoxOToyMSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMDowMiBQTSZoYXNoX3ZhbHVlPUI4dHYvWGpyQk1RUFIrdW05SUo1Y2c9PSZ2YWxpZG1pbnV0ZXM9MjA=/discoverys.stream
 #EXTINF:0,Animal Planet
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNTo1MDo1NiBQTSZoYXNoX3ZhbHVlPU0zS2QwVFRmOU1Ba3libnMxUm5rVFE9PSZ2YWxpZG1pbnV0ZXM9MjA=/animal.stream
-#EXTINF:0,E
+#EXTINF:0,E!
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyMjo0MiBQTSZoYXNoX3ZhbHVlPVpBbjJXMVREaXlUcDFyK1haQ3pOZ1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/ee.stream
 #EXTINF:0,FOOD NETWORK
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjoyNjo1OCBQTSZoYXNoX3ZhbHVlPVNvMVl5NXB6ZXhwMjlRN0ZyYzBSa1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/foodnetwork.stream
@@ -174,8 +174,6 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNjo1OSB
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozNzo0NCBQTSZoYXNoX3ZhbHVlPWlPL2U3VGlhNlBnM0d6WE8vZTBKcXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeo.stream
 #EXTINF:0,NAT GEO WILD
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjozOTo0MCBQTSZoYXNoX3ZhbHVlPWZFOURJVW5aOE5udTBMVlVhd3dBMGc9PSZ2YWxpZG1pbnV0ZXM9MjA=/natgeow.stream
-#EXTINF:0,NBA TV
-rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MDo1NSBQTSZoYXNoX3ZhbHVlPS9vRVI2eVFuRnlZVzU1VE1HRlZGU1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/nba.stream
 #EXTINF:0,NBC
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MTozNSBQTSZoYXNoX3ZhbHVlPXEyMDBYeDQ0QjRNY3AySzRJOHZjQXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/nbc9.stream
 #EXTINF:0,NBC HD
@@ -244,6 +242,8 @@ rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDE6MjU
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgODowNDoyNCBQTSZoYXNoX3ZhbHVlPXlJc3VGUEJsQlFiNEl4TW5IWHZuMXc9PSZ2YWxpZG1pbnV0ZXM9MjA=/wwe.stream
 #EXTINF:0,CHELSEA TV
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgMTE6MDc6NTYgUE0maGFzaF92YWx1ZT1kaFJLWmVXTkgrS2hRUCtxYkR5OFJ3PT0mdmFsaWRtaW51dGVzPTIw/chelsea.stream
+#EXTINF:0,NBA TV
+rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0MDo1NSBQTSZoYXNoX3ZhbHVlPS9vRVI2eVFuRnlZVzU1VE1HRlZGU1E9PSZ2YWxpZG1pbnV0ZXM9MjA=/nba.stream
 #EXTINF:0,NFL NETWORK
 rtmp://play.uktvnow.net/live?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yLzIwMTYgNjo0Mjo1NiBQTSZoYXNoX3ZhbHVlPUw0cDV3MWVjRmZxMmlWL2RxWDZQRVE9PSZ2YWxpZG1pbnV0ZXM9MjA=/nfl.stream
 #EXTINF:-1,beIN Sport 1 HD France
