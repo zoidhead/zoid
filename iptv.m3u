@@ -297,5 +297,4 @@ http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1,PAC-12 (Washington) 1080p
 http://xrxs.net/video/live-p12wash-4728.m3u8
 
-#EXTINF:-1,test
-rtmp://62.210.76.216/live playpath=himym swfUrl=http://releases.flowplayer.org/5.5.1/flowplayer.swf pageUrl=http://www.stream4free.eu/himym
+
