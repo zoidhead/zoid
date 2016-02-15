@@ -5,31 +5,31 @@
 #EXTINF:-1,BBC one 
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC one HD
+#EXTINF:-1,BBC one [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC two
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC two HD
+#EXTINF:-1,BBC two [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_5/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC three
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC three HD
+#EXTINF:-1,BBC three [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/bbc_three_hd/bbc_three_hd.isml/bbc_three_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC four
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC four HD
+#EXTINF:-1,BBC four [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,BBC News
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,BBC News HD
+#EXTINF:-1,BBC News [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,ITV 1 
@@ -65,13 +65,13 @@ blah
 #EXTINF:-1,CBBC
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,CBBC HD
+#EXTINF:-1,CBBC [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,CBeebies
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa3=96000-video=1604000.m3u8
 
-#EXTINF:-1,CBeebies HD
+#EXTINF:-1,CBeebies [COLOR blue]HD[/COLOR]
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa3=96000-video=5070000.m3u8
 
 #EXTINF:-1,CITV
@@ -80,22 +80,22 @@ http://citvliveios-i.akamaihd.net/hls/live/207267/itvlive/CITVMN/master_Main1800
 #EXTINF:-1,[COLOR red][B]MUSIC TV[/B][/COLOR]
 blah
 
-#EXTINF:-1,CAPITAL TV
+#EXTINF:-1,CAPITAL TV [COLOR blue]HD[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
  
-#EXTINF:-1,HEART TV
+#EXTINF:-1,HEART TV [COLOR blue]HD[/COLOR]
 http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
 
 #EXTINF:-1,CLUBLAND TV
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
 
-#EXTINF:-1,VEVO 1 HD
+#EXTINF:-1,VEVO 1 [COLOR blue]HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
 
-#EXTINF:-1,VEVO 2 HD
+#EXTINF:-1,VEVO 2 [COLOR blue]HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
 
-#EXTINF:-1,VEVO 3 HD
+#EXTINF:-1,VEVO 3 [COLOR blue]HD[/COLOR]
 http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
 
 #EXTINF:-1,[COLOR orange][B]PAUL TV [/B][/COLOR]
@@ -116,7 +116,7 @@ http://veetle.com/index.php/hls/streamMbrFast/4f9436ece56e2_/stream.m3u8
 #EXTINF:-1,South Park
 http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8 
 
-#EXTINF:-1,[COLOR blue][B]PAC - 12[/B][/COLOR]
+#EXTINF:-1,[COLOR purple][B]PAC - 12[/B][/COLOR]
 blah 
 
 #EXTINF:-1,PAC-12 (National) 720p
