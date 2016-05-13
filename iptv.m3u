@@ -41,9 +41,6 @@ http://uk.stream.yo.tv/livehttporigin/ Channel5_360p.stream/chunklist.m3u8
 #EXTINF:-1,London Live
 http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 
-#EXTINF:-1,truTV
-http://llnw.live.simplestream.com/coder5/coder.channels.channel2/hls/4/playlist.m3u8
-
 #EXTINF:-1,[COLOR yellow][B]KIDS TV[/B][/COLOR]
 blah
 
