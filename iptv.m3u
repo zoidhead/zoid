@@ -14,6 +14,9 @@ http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_2/live/bbc_four_hd/bbc_four_hd.is
 #EXTINF:-1,BBC News
 http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_3/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa3=96000-video=1604000.m3u8
 
+#EXTINF:-1,BBC one NI
+http://vs-hds-uk-live.bbcfmt.vo.llnwd.net/pool_4/live/bbc_one_northern_ireland_hd/bbc_one_northern_ireland_hd.isml/bbc_one_northern_ireland_hd-pa3=96000-video=1604000.m3u8
+
 #EXTINF:-1,ITV 1 
 http://itv1liveios-i.akamaihd.net/hls/live/203437/itvlive/ITV1MN/master_Main1200.m3u8
 
