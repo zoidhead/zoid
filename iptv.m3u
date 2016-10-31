@@ -92,25 +92,26 @@ http://veetle.com/index.php/hls/streamMbrFast/541c316fe8423_/stream.m3u8
 #EXTINF:-1,[COLOR purple][B]PAC - 12[/B][/COLOR]
 blah 
 
-#EXTINF:-1,PAC-12 (National) 
-http://pac12hd2-lh.akamaihd.net/i/p12netw_delivery@132840/index_4728_av-b.m3u8?
+#EXTINF:0,PAC 12 Arizona (HD)
+http://xrxs.net/video/live-p12ariz-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Arizona) 
-http://pac12hd2-lh.akamaihd.net/i/p12ariz_delivery@132836/index_4728_av-b.m3u8?
+#EXTINF:0,PAC 12 Bay Area (HD)
+http://xrxs.net/video/live-p12baya-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Bay Area) 
-http://pac12hd2-lh.akamaihd.net/i/p12baya_delivery@132837/index_4728_av-p.m3u8?
+#EXTINF:0,PAC 12 Los Angeles (HD)
+http://xrxs.net/video/live-p12losa-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Los Angeles) 
-http://pac12hd2-lh.akamaihd.net/i/p12losa_delivery@132838/index_4728_av-p.m3u8?
+#EXTINF:0,PAC 12 Mountain (HD)
+http://xrxs.net/video/live-p12moun-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Mountain) 
-http://pac12hd2-lh.akamaihd.net/i/p12moun_delivery@132839/index_4728_av-p.m3u8?
+#EXTINF:0,PAC 12 National (HD)
+http://xrxs.net/video/live-p12netw-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Oregon) 
-http://pac12hd2-lh.akamaihd.net/i/p12oreg_delivery@132835/index_4728_av-p.m3u8?
+#EXTINF:0,PAC 12 Oregon (HD)
+http://xrxs.net/video/live-p12oreg-4728.m3u8
 
-#EXTINF:-1,PAC-12 (Washington) 
-http://pac12hd2-lh.akamaihd.net/i/p12wash_delivery@132841/index_4728_av-b.m3u8?
+#EXTINF:0,PAC 12 Washington (HD)
+http://xrxs.net/video/live-p12wash-4728.m3u8
+
 
 
